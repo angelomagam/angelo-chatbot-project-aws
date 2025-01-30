@@ -10,7 +10,7 @@ Hello everyone! This is a personal project showcasing **AWS Services** creating 
 - **Amazon OpenSearch Service** (Vector storage for the AI)  
 - **Amazon Simple Storage Service (S3)** (Used for knowledge base)  
 
-![alt text](image.png)  
+![alt text](src-photos/image.png)  
 
 The final product should be like this:  
 
