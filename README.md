@@ -14,7 +14,7 @@ Hello everyone! This is a personal project showcasing **AWS Services** creating 
 
 The final product should be like this:  
 
-![alt text](image-1.png)  
+![alt text](src-photos/image-1.png)  
 
 ---
 
@@ -49,7 +49,7 @@ The final product should be like this:
 - Click **"Access Models"** and **register for AI models**.  
 - Once approved, click **"Create Knowledge Base"**.  
 
-![alt text](image-2.png)  
+![alt text](src-photos/image-2.png)  
 
 - Select the **S3 bucket** created earlier.  
 - Click **"Create Knowledge Base"** to generate vector embeddings. Doing this will create **an OpenSearch Service**, which is a **storage for vectors for the AI**.  
